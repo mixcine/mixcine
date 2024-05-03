@@ -1,5 +1,0 @@
-[
-   {
-     "nome":"oi tudo bem",
-},
-]
